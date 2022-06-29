@@ -7,11 +7,7 @@ The accompanying paper _PRoA: A Probabilistic Robustness Assessment against Func
 #### Citation
 
 ```
-```
-
 @article
-
-```
 ```
 
 
@@ -31,8 +27,6 @@ In safety-critical deep learning applications, robustness measurement is a vital
 # Developer's Platform
 
 ```
-```
-
 cox==0.1.post3
 dill==0.3.4
 GitPython==3.1.27
@@ -50,9 +44,6 @@ timm==0.5.0
 torch==1.9.1+cu111
 torchvision==0.10.1+cu111
 tqdm==4.64.0
-
-```
-
 ```
 
 # Run
