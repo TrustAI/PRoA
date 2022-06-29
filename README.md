@@ -64,7 +64,11 @@ tqdm==4.64.0
 
 # Run
 
+`python -m eval_cifar.py` 
 
+or
+
+`python -m eval_imagenet.py` 
 
 
 
@@ -75,5 +79,7 @@ tqdm==4.64.0
 This tool is under active development and maintenance, please feel free to contact us about any problem encountered.
 
 Best regards,
+
+Tianle Zhang
 
 [tz294@exeter.ac.uk](mailto:tz294@exeter.ac.uk)
