@@ -64,13 +64,15 @@ tqdm==4.64.0
 
 # Run
 
-`python -m eval_cifar.py` 
+```python
+python -m eval_cifar.py
+```
 
 or
 
-`python -m eval_imagenet.py` 
-
-
+```python
+python -m eval_imagenet.py
+```
 
 
 
