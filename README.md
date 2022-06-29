@@ -1,12 +1,20 @@
 # PRoA ( A Probabilistic Robustness Assessment against Functional Perturbations)
 
-**Tianle Zhang, Wenjie Ruan, and Jonathan E. Fieldsend** 
+__Tianle Zhang, Wenjie Ruan, and Jonathan E. Fieldsend__
 
-The accompanying paper PRoA: A Probabilistic Robustness Assessment against Functional Perturbations is accepted by  [European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (*ECML-PKDD*)](https://ecmlpkdd.org/).
+The accompanying paper _PRoA: A Probabilistic Robustness Assessment against Functional Perturbations_ is accepted by  [European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (*ECML-PKDD*)](https://ecmlpkdd.org/).
 
-**Citation** 
+#### Citation
 
-`@article`
+```
+```
+
+@article
+
+```
+```
+
+
 
 # Abstract
 
@@ -22,23 +30,30 @@ In safety-critical deep learning applications, robustness measurement is a vital
 
 # Developer's Platform
 
-`cox==0.1.post3`
-`dill==0.3.4`
-`GitPython==3.1.27`
-`kornia==0.6.3`
-`matplotlib==3.4.3`
-`numpy==1.21.2`
-`openpyxl==3.0.9`
-`pandas==1.2.5`
-`Pillow==9.1.1`
-`scikit_learn==1.1.1`
-`scipy==1.7.1`
-`seaborn==0.11.2`
-`statsmodels==0.11.1`
-`timm==0.5.0`
-`torch==1.9.1+cu111`
-`torchvision==0.10.1+cu111`
-`tqdm==4.64.0`
+```
+```
+
+cox==0.1.post3
+dill==0.3.4
+GitPython==3.1.27
+kornia==0.6.3
+matplotlib==3.4.3
+numpy==1.21.2
+openpyxl==3.0.9
+pandas==1.2.5
+Pillow==9.1.1
+scikit_learn==1.1.1
+scipy==1.7.1
+seaborn==0.11.2
+statsmodels==0.11.1
+timm==0.5.0
+torch==1.9.1+cu111
+torchvision==0.10.1+cu111
+tqdm==4.64.0
+
+```
+
+```
 
 # Run
 
