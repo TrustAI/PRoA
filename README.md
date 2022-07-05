@@ -1,4 +1,4 @@
-# PRoA ( A Probabilistic Robustness Assessment against Functional Perturbations)
+# PRoA: A Probabilistic Robustness Assessment against Functional Perturbations
 
 __Tianle Zhang, Wenjie Ruan, and Jonathan E. Fieldsend__
 
