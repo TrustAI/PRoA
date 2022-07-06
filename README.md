@@ -7,7 +7,19 @@ The accompanying paper _PRoA: A Probabilistic Robustness Assessment against Func
 #### Citation
 
 ```
-@article
+@article{2022arXiv220702036Z,
+       author = {{Zhang}, Tianle and {Ruan}, Wenjie and {Fieldsend}, Jonathan E.},
+        title = "{PRoA: A Probabilistic Robustness Assessment against Functional Perturbations}",
+      journal = {arXiv e-prints},
+         year = 2022,
+        month = jul,
+archivePrefix = {arXiv},
+       eprint = {2207.02036},
+ primaryClass = {cs.LG},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/2022arXiv220702036Z},
+}
+
+
 ```
 
 
