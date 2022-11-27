@@ -92,6 +92,12 @@ This tool is under active development and maintenance, please feel free to conta
 
 Best regards,
 
-Tianle Zhang & Wenjie Ruan
+Tianle Zhang
 
 [tz294@exeter.ac.uk](mailto:tz294@exeter.ac.uk)
+
+##
+
+### Note: This work is accepted by ECML/PKDD 2022. Pls find the paper here: [PRoA: A Probabilistic Robustness Assessment against Functional Perturbations](https://2022.ecmlpkdd.org/wp-content/uploads/2022/09/sub_1130.pdf)
+
+-- Tianle Zhang & Wenjie Ruan
