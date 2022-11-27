@@ -92,6 +92,6 @@ This tool is under active development and maintenance, please feel free to conta
 
 Best regards,
 
-Tianle Zhang
+Tianle Zhang & Wenjie Ruan
 
 [tz294@exeter.ac.uk](mailto:tz294@exeter.ac.uk)
